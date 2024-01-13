@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySum", "ArraySum\ArraySum.csproj", "{C1ABCA28-910F-4669-88EC-17F6C9D13921}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicDataStructures", "BasicDataStructures\BasicDataStructures.csproj", "{C1ABCA28-910F-4669-88EC-17F6C9D13921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{33DD2C08-A1E6-458F-8D69-93B55EECA01C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +14,9 @@ Global
 		{C1ABCA28-910F-4669-88EC-17F6C9D13921}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1ABCA28-910F-4669-88EC-17F6C9D13921}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1ABCA28-910F-4669-88EC-17F6C9D13921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33DD2C08-A1E6-458F-8D69-93B55EECA01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DD2C08-A1E6-458F-8D69-93B55EECA01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DD2C08-A1E6-458F-8D69-93B55EECA01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DD2C08-A1E6-458F-8D69-93B55EECA01C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
